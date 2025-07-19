@@ -8,7 +8,6 @@
   - [Critérios de Inclusão e Exclusão](./criterios.md)
   - [Fontes e String de Busca](./fontes.md)
 - [Avaliação da Qualidade](./avaliacao_qualidade.md)
-- [Perfil dos Participantes](./perfil.md)
 - [Questionário Aplicado](./questionario.md)
 - [Análise dos Resultados](./analise_dos_resultados.md)
   - [Percepções sobre Segurança](./percepcao.md)
