@@ -1,3 +1,13 @@
+**Segurança Digital do Usuário.**
+
+**Autores**
+
+* Matheus de Oliveira
+
+* Uriel Farias da Costa
+
+* Felipe Balbi
+
 Nos últimos anos, o avanço da tecnologia digital transformou profundamente a maneira como as pessoas consomem produtos e se relacionam socialmente. As plataformas de e-commerce e redes sociais se tornaram parte essencial do cotidiano de milhões de usuários ao redor do mundo. No entanto, essa digitalização também trouxe à tona uma preocupação crescente: a segurança digital.
 
 Apesar das evoluções em mecanismos técnicos de proteção, como criptografia, autenticação em dois fatores e monitoramento de fraudes, o fator humano permanece como um elo crítico na cadeia de segurança. Comportamentos como o uso de senhas fracas, cliques em links suspeitos ou a exposição excessiva de informações pessoais podem comprometer seriamente a proteção dos dados do usuário.
