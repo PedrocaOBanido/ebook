@@ -57,7 +57,7 @@
   - [Conclusão](./Vício_Digital_e_Jogos_de_Azar/9_Conclusão.md)
   - [Referências](./Vicio_Digital_e_Jogos_de_Azar/10_Referencias.md)
 
-- [Segurança Digital do Usuário](./seguranca_digital_do_usuario/SUMMARY.md)
+- [Segurança Digital do Usuário](./seguranca_digital_do_usuario/introducao.md)
   - [Introdução](./introducao.md)
   - [Protocolo da Revisão Sistemática](./protocolo.md)
     - [Objetivo da Revisão](./objetivo.md)
