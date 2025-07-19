@@ -66,7 +66,6 @@
     - [Critérios de Inclusão e Exclusão](./seguranca_digital_do_usuario/criterios.md)
     - [Fontes e String de Busca](./seguranca_digital_do_usuario/fontes.md)
   - [Avaliação da Qualidade](./seguranca_digital_do_usuario/avaliacao_qualidade.md)
-  - [Perfil dos Participantes](./seguranca_digital_do_usuario/perfil.md)
   - [Questionário Aplicado](./seguranca_digital_do_usuario/questionario.md)
   - [Análise dos Resultados](./seguranca_digital_do_usuario/analise_dos_resultados.md)
     - [Percepções sobre Segurança](./seguranca_digital_do_usuario/percepcao.md)
