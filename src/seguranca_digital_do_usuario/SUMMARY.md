@@ -2,11 +2,11 @@
 
 - [Introdução](./introducao.md)
 - [Protocolo da Revisão Sistemática](./protocolo.md)
+  - [Etapas da Revisão](./etapas.md)
   - [Objetivo da Revisão](./objetivo.md)
   - [Questões de Pesquisa](./rqs.md)
   - [Critérios de Inclusão e Exclusão](./criterios.md)
   - [Fontes e String de Busca](./fontes.md)
-  - [Etapas da Revisão](./etapas.md)
 - [Avaliação da Qualidade](./avaliacao_qualidade.md)
 - [Perfil dos Participantes](./perfil.md)
 - [Questionário Aplicado](./questionario.md)
